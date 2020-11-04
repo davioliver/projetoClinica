@@ -1,7 +1,7 @@
 # Projeto Clinica
 Sistema de gerenciamento para uma clínica feito em java.
 
-Para a utilização do sistema eu indico a utilização do MySQL Workbanch e para  usar os relatórios recomendo instalar o ireport.
+Para a utilização do sistema eu indico O MySQL Workbanch e para  usar os relatórios, instalar o ireport.
 
 MySQL Workbanch baixe o arquivo sql e crie o banco de dados para rodar o sistema.
 
@@ -11,4 +11,4 @@ O sistema so funcionará junto com o banco de dados, o qual deve ser o workbanch
 
 Os relarios so funcionaram se você tiver instalado o irepot na sua I.D.E de preferencia. Eu recomendo o netbeans, onde eu desenvolvi esse projeto.
 
-Execute primeiro a tela de Login, caso contrário o sistema apresentará erro.
+
