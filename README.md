@@ -1,4 +1,4 @@
-# projetoClinica
+# projeto Clinica
 Sistema de gerenciamento para uma clínica feito em java.
 
 Para a utilização do sistema eu indico a utilização do MySQL Workbanch e para  usar os relatórios recomendo instalar o ireport.
